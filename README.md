@@ -1,9 +1,6 @@
 # Titanic Survival Prediction: Neural Network Model
 This project contains a machine learning model developed using neural networks to predict the survival probabilities of passengers in the famous Titanic disaster.
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
-
-
 ## Project Overview
 The sinking of the RMS Titanic on April 15, 1912, resulted in the loss of more than 1,500 lives. This project aims to predict which passengers survived using a neural network trained on structured passenger data.
 
